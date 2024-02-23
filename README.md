@@ -12,7 +12,7 @@ Link: https://savvytime.com/converter/ist-to-utc
 
 ## Hosted Link
 
-Link: 
+Link: https://playpowerlabs-frontend.vercel.app/
 
 ## Functionality
 
