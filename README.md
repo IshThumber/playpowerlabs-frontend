@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HQASKTKAY6B0WT3XYJBKNVZB
-  version: v3
----
-
 # Timezone Converter
 
 ## Tech Stack
