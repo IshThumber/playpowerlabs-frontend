@@ -1,0 +1,3 @@
+export const LINK = "https://rtrxtqocdoxufwfmonet.supabase.co"
+export const API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJ0cnh0cW9jZG94dWZ3Zm1vbmV0Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTcwODY2OTcwOCwiZXhwIjoyMDI0MjQ1NzA4fQ.9K9IJn_DGEJWER-z80tWBo_9NjBn3YVp3KX909OFRYQ"
+
