@@ -1,14 +1,24 @@
+---
+runme:
+  id: 01HQASKTKAY6B0WT3XYJBKNVZB
+  version: v3
+---
+
 # Timezone Converter
 
 ## Tech Stack
 
-**FrontEnd:** React.js
+**FrontEnd:** Vite.js (React.js)
 
-**Design:** Material UI
+**Design:** Material UI, TailwindCSS
 
 ## Reference
 
-[Link](https://savvytime.com/converter/utc-to-ist)
+Link: https://savvytime.com/converter/ist-to-utc 
+
+## Hosted Link
+
+Link: 
 
 ## Functionality
 
@@ -24,16 +34,16 @@
 
 ## Run Locally
 
-- Install my-project with npm
+- Installing project with npm
 
-```bash
-  npm install my-project
+```bash {"id":"01HQASKTK9Q442PNW3QJGHF6TS"}
+  npm install
 ```
 
-```bash
+```bash {"id":"01HQASKTK9Q442PNW3QNYVZPXF"}
   cd my-project
 ```
 
-```bash
-  npm run start
+```bash {"id":"01HQASKTK9Q442PNW3QRZSRHT8"}
+  npm run dev
 ```
